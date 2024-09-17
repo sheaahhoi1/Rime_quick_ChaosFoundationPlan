@@ -1,4 +1,4 @@
-# quick_ChaosFoundationPlan
+# Rime_quick_Chaos Foundation Plan
 <br>
 <font size="15">速成混沌計劃·基礎版   拆碼困難?好像是但又拆不了,正是為此誕生</font>
 <br>

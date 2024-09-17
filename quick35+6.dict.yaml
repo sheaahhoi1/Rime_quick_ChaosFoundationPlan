@@ -7,7 +7,7 @@ sort: by_weight
 # 词库，通用大集合
 import_tables:
   #繁體詞庫,繁化詞庫部份用字不當自行處理
-  - quick3_8m6_2022          #  3代詞庫
-  - quick5_2022      # 5代詞庫
-  - cangjie6           # 6代詞庫
+  - quick3_8m6_2022          #  3代字庫
+  - quick5_2022      # 5代字庫
+  - cangjie6           # 6代字庫
 ...

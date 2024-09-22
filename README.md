@@ -2,6 +2,8 @@
 <br>
 <font size="15">速成混沌計劃·基礎版   拆碼困難?好像是但又拆不了,正是為此誕生</font>
 <br>
+<a href="https://github.com/sheaahhoi1/Rime_quick6/blob/8b0151c521ddab1c96f3b1486a3b52f00559beb0/%E4%BF%AE%E6%94%B9%E8%AA%AA%E6%98%8E/%E5%AD%97%E7%A2%BC%E5%BA%AB%E4%BF%AE%E6%94%B9%E8%AA%AA%E6%98%8E.md">字碼庫修改說明</a>
+<br>
 <font size="20">速成混沌計劃,因為是3/5/6代混碼,所以3/5/6代不管全都行拆碼,全都能打,混沌已成~!</font>
 <br>
 <font size="10"><b>基於前3個計劃製作的混合基礎版</b></font>
